@@ -1,0 +1,294 @@
+#bannertop {
+  position: fixed; top:0%; left:0%;
+}
+
+div {
+  display : block;
+}
+
+.line {
+  width: 100%; height: 12%;
+  background-color: #2F2F87;
+}
+
+#top {
+ margin-top: 120px;
+ padding-top: 2%;
+ text-align: center;
+ font-weight: bold;
+ font-size: 25pt;
+ font-family:"VERDANA";
+ color: #2F2F87;
+}
+
+#presentation {
+font-family: "Arial";
+text-align: center;
+font-size: 15pt;
+padding-top: 15px;
+}
+
+
+#topgallery {
+  margin-top: 200px;
+  padding-top: 2%;
+}
+
+.title {
+  font-family: "Tahoma", monospace;
+  color: #2F2F87;
+  background-color: #8181F7;
+  padding: 1% 3% 1% 3%;
+  margin-top: -70px;
+  font-weight: bold;
+  font-size: 21pt;
+  position: absolute;
+  left: -15px;
+  border-radius: 5px;
+}
+
+.section {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: inherit; width: 100%;
+  background-color: #E0E6F8;
+  margin-bottom: 4%;
+  padding: 6% 2% 2%;
+  border-radius: 8px;
+}
+
+.imagefull {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
+  width: 996px;
+  height: 400px;
+  margin-left: 8px; margin-bottom: 4px;
+  display: inline-block;
+  border-radius: 8 px;
+}
+
+.imagequart {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
+  width: 240px;
+  height: 400px;
+  margin-left: 8px; margin-bottom: 4px;
+  display: inline-block;
+  border-radius: 8 px;
+}
+
+.img1 {
+  background: url("https://orig00.deviantart.net/84d9/f/2015/268/5/f/rufy_dressrosa_wanted_poster___500_000_000_berry_by_karotakid-d9atqp0.png") 50% 10% no-repeat;
+  background-size:cover;
+}
+.img1 a {
+  display: block;
+  width: 240px;
+  height: 400px;
+  margin: 1px;
+}
+.img1 a:hover {
+  display: block;
+  background-color: white;
+  opacity: 0.1;
+
+  width: 250px;
+  height: 400px;
+}
+
+.img2 {
+  background: url("https://orig00.deviantart.net/472c/f/2015/271/6/a/sanji_dressrosa_wanted_poster___177_000_000_berry_by_karotakid-d9b7opy.png") 50% 10% no-repeat;
+  background-size:cover;
+}
+.img2 a {
+  display: block;
+  width: 240px;
+  height: 400px;
+  margin: 1px;
+}
+.img2 a:hover {
+  display: block;
+  background-color: white;
+  opacity: 0.1;
+
+  width: 250px;
+  height: 400px;
+}
+
+.img3 {
+  background: url("https://orig00.deviantart.net/53ef/f/2015/274/4/2/usopp_dressrosa_wanted_poster___200_000_000_berry_by_karotakid-d9bcnfc.png") 50% 10% no-repeat;
+  background-size:cover;
+}
+.img3 a {
+  display: block;
+  width: 240px;
+  height: 400px;
+  margin: 1px;
+}
+.img3 a:hover {
+  display: block;
+  background-color: white;
+  opacity: 0.1;
+
+  width: 250px;
+  height: 400px;
+}
+
+.img4 {
+  background: url("https://orig00.deviantart.net/2f4e/f/2015/274/2/f/chopper_dressrosa_wanted_poster___100_berry_by_karotakid-d9bjact.png") 50% 10% no-repeat;
+  background-size:cover;
+}
+.img4 a {
+  display: block;
+  width: 240px;
+  height: 400px;
+  margin: 1px;
+}
+.img4 a:hover {
+  display: block;
+  background-color: white;
+  opacity: 0.1;
+
+  width: 250px;
+  height: 400px;
+}
+
+.img5 {
+  background: url("https://orig00.deviantart.net/d33c/f/2017/198/1/7/we_are_the_bar_by_karotakid-dbgmsw2.png") 50% 10% no-repeat;
+  background-size:cover;
+}
+.img5 a {
+  display: block;
+  width: 996px;
+  height: 400px;
+  margin: 1px;
+}
+.img5 a:hover {
+  display: block;
+  background-color: white;
+  opacity: 0.1;
+  width: 996px;
+  height: 400px;
+}
+
+.img6 {
+  background: url("https://orig00.deviantart.net/c36c/f/2017/336/b/d/zack_ryder___phone_wallpaper_by_karotakid-dbvi3ub.png") 50% 50% no-repeat;
+  background-size:cover;
+}
+.img6 a {
+  display: block;
+  width: 996px;
+  height: 400px;
+  margin: 1px;
+}
+.img6 a:hover {
+  display: block;
+  background-color: white;
+  opacity: 0.10;
+  width: 996px;
+  height: 400px;
+}
+
+.img7 {
+  background: url("https://www.simoriccio.it/wp-content/uploads/2018/02/new-instagram-text-logo.png") 50% 50% no-repeat;
+  background-size:contain;
+}
+.img7 a {
+  display: block;
+  width: 996px;
+  height: 200px;
+  margin: 1px;
+}
+.img7 a:hover {
+  display: block;
+  background-color: white;
+  opacity: 0.10;
+  width: 996px;
+  height: 200px;
+}
+
+.img8 {
+  background:
+  url("https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/DeviantArt_Logo.svg/2000px-DeviantArt_Logo.svg.png") 50% 50% no-repeat;
+  background-size:contain;
+}
+.img8 a {
+  display: block;
+  width: 996px;
+  height: 200px;
+  margin: 1px;
+}
+.img8 a:hover {
+  display: block;
+  background-color: white;
+  opacity: 0.10;
+  width: 996px;
+  height: 200px;
+}
+
+
+#logokk {
+  width: 335px; height: 100.5px;
+  transform: translate(-50%,-50%);
+  position: absolute; top:85%; left:14%;
+}
+
+#column {
+ width: 75%; height: inherit;
+ position: absolute; left: 49%;
+ transform: translate(-50%);
+}
+
+body {background-color:#A9BCF5;}
+
+/* LINK BOX */
+ .box {
+  font-family: "Just Another Hand", monospace;
+  text-decoration: none;
+  padding: 24px 45px 24px 45px;
+  background-color: none;
+  font-size: 21pt;
+  position: absolute;
+  float: left;
+  top: 50%;
+  left: 32%;
+  transform: translate(-50%, -50%);
+ }
+ .box:hover {
+  background-color: #4D4DAD;
+}
+ .box:active {
+  background-color: #7575DB;
+}
+ #home {
+  left: 38%;
+}
+ #gallery {
+  left: 53%;
+}
+ #shop {
+  left: 69%;
+}
+ #contacts {
+  left: 85%;
+}
+
+/*LINK*/
+
+a {
+
+}
+/* unvisited link */
+a:link {
+    color: #E16526;
+}
+/* visited link */
+a:visited {
+    color: #E16526;
+
+}
+/* mouse over link */
+a:hover {
+    color: #F28353;
+}
+/* selected link */
+a:active {
+    color: #FFAA85;
+}
